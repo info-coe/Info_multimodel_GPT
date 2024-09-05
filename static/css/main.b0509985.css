@@ -1,0 +1,2 @@
+*{margin:0;padding:0}.grid-container{grid-gap:30px 30px;display:grid;gap:30px 30px;grid-template-columns:auto auto auto;padding:10px}.grid-item{background-color:#fffc;border-radius:6px;box-shadow:5px 5px 15px #756c6c;padding:20px}.fullscreen{display:flex;flex-direction:column;min-height:100vh}.fullscreen main{flex-grow:1}
+/*# sourceMappingURL=main.b0509985.css.map*/
