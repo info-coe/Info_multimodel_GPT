@@ -1,15 +1,14 @@
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import "./App.css";
-import Footer from "./Footer";
-import GptModelTiles from "./GptModelTiles";
+import GptModel from "./GptModel";
 
 function App() {
   return (
-    <div className="fullscreen">
-      <main>
-        <GptModelTiles />
-      </main>
-      <Footer />
-    </div>
+    <BrowserRouter basename="Info_multimodel_GPT">
+      <Routes>
+        <Route path="/" element={<GptModel />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 
