@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+  gap: 30px 30px;
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  /* border: 1px solid rgba(129, 109, 109, 0.8); */
+  padding: 20px;
+  border-radius: 6px;
+  box-shadow: rgb(117, 108, 108) 5px 5px 15px;
+}
+
+.fullscreen{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.fullscreen main{
+  flex-grow: 1;
+}
