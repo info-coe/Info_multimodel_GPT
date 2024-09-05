@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b0509985.css",
-    "main.js": "/static/js/main.37ef5cd3.js",
+    "main.js": "/static/js/main.422fdc54.js",
     "static/media/Black-Modern.mp4": "/static/media/Black-Modern.3d844e5df11e4b437f61.mp4",
     "static/media/Networking-llm.gif": "/static/media/Networking-llm.aa135c2e1d91851e40a4.gif",
     "static/media/Math-llm.gif": "/static/media/Math-llm.c0a69c62a5f3a1c33dfd.gif",
@@ -11,10 +11,10 @@
     "static/media/scholar-llm.gif": "/static/media/scholar-llm.c856a30666ac896e65a0.gif",
     "index.html": "/index.html",
     "main.b0509985.css.map": "/static/css/main.b0509985.css.map",
-    "main.37ef5cd3.js.map": "/static/js/main.37ef5cd3.js.map"
+    "main.422fdc54.js.map": "/static/js/main.422fdc54.js.map"
   },
   "entrypoints": [
     "static/css/main.b0509985.css",
-    "static/js/main.37ef5cd3.js"
+    "static/js/main.422fdc54.js"
   ]
 }
